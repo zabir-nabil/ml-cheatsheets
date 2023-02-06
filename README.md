@@ -7,10 +7,12 @@ This is basically a compilation of cheat sheets on machine learning and relevant
 
  - [Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
  - [SoulMachine](https://github.com/zabir-nabil/ml-cheatsheets/blob/main/machine-learning-cheat-sheet.pdf)
+ - [NTU](http://disp.ee.ntu.edu.tw/~pujols/Machine%20Learning%20Tutorial.pdf)
 
 ### Probability
 
  - [wzchen](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
+ - [Stanford](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf)
 
 ### Statistics
 
