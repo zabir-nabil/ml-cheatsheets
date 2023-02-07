@@ -28,11 +28,11 @@ This is basically a compilation of cheat sheets on machine learning and relevant
 
 ### Computer Vision
 
- - Generative Adversarial Networks / GANs]
+ - *Generative Adversarial Networks / GANs*
    - [Google](https://developers.google.com/machine-learning/gan)
-     - [DCGAN]()
-     - [CycleGAN]()
-     - [StyleGAN]()
+ - *DCGAN*
+ - *CycleGAN*
+ - *StyleGAN*
    
 ### Natural Language Processing
 
@@ -40,4 +40,12 @@ This is basically a compilation of cheat sheets on machine learning and relevant
    - [BERT]()
    - [Generative Pre-Trained Transformer / GPT]()
    - [Chat Generative Pre-Trained Transformer / Chat GPT]()
+
+### Notes
+
+
+
+### Papers
+
+- Generative vs Discriminative classifiers: Logistic Regression, Naive Bayes [paper](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
 
