@@ -28,10 +28,11 @@ This is basically a compilation of cheat sheets on machine learning and relevant
 
 ### Computer Vision
 
- - [Generative Adversarial Networks / GANs]()
-   - [DCGAN]()
-   - [CycleGAN]()
-   - [StyleGAN]()
+ - Generative Adversarial Networks / GANs]
+   - [Google](https://developers.google.com/machine-learning/gan)
+     - [DCGAN]()
+     - [CycleGAN]()
+     - [StyleGAN]()
    
 ### Natural Language Processing
 
