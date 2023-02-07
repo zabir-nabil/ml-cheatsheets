@@ -47,5 +47,5 @@ This is basically a compilation of cheat sheets on machine learning and relevant
 
 ### Papers
 
-- Generative vs Discriminative classifiers: Logistic Regression, Naive Bayes [paper](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
+- **Generative vs Discriminative classifiers**: Logistic Regression, Naive Bayes - [paper](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
 
